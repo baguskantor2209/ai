@@ -1,0 +1,6 @@
+{
+  "name": "mKenzo AI - Generator CV & Surat Lamaran",
+  "description": "Asisten AI cerdas untuk membuat CV profesional dan Surat Lamaran Kerja lengkap dengan riwayat percakapan dan export PDF.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
